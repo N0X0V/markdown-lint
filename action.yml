@@ -1,0 +1,5 @@
+name: "markdown-lint"
+description: "This action lints all markdown files provided"
+runs:
+  using: "docker"
+  image: "Dockerfile"
